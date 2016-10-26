@@ -15,6 +15,18 @@
         },
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "io.cordova.myappd41ce3"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "io.cordova.myappd41ce3"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "io.cordova.myappd41ce3"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "io.cordova.myappd41ce3"
+        },
+        "phonegap-plugin-barcodescanner": {
+            "PACKAGE_NAME": "io.cordova.myappd41ce3"
         }
     },
     "dependent_plugins": {}
